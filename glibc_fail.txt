@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/snorf/miniconda3/envs/python34/lib/python3.4/site-packages/pywr/core.py", line 6, in <module>
+    from pywr import _core
+ImportError: /lib64/libc.so.6: version `GLIBC_2.14' not found (required by /home/snorf/miniconda3/envs/python34/lib/python3.4/site-packages/pywr/_core.cpython-34m.so)
